@@ -1,0 +1,15 @@
+D:\temp\demos_m3\after\FriendStorage\FriendStorage.Model\bin\Debug\FriendStorage.Model.dll
+D:\temp\demos_m3\after\FriendStorage\FriendStorage.Model\bin\Debug\FriendStorage.Model.pdb
+D:\temp\demos_m3\after\FriendStorage\FriendStorage.Model\obj\Debug\FriendStorage.Model.dll
+D:\temp\demos_m3\after\FriendStorage\FriendStorage.Model\obj\Debug\FriendStorage.Model.pdb
+D:\temp\demos_m3\after\FriendStorage\FriendStorage.Model\obj\Debug\FriendStorage.Model.csprojResolveAssemblyReference.cache
+D:\40_Publications\Pluralsight\_course_WPF_MVVM_AdvancedModelTreatment\demos\m5\after\FriendStorage\FriendStorage.Model\bin\Debug\FriendStorage.Model.dll
+D:\40_Publications\Pluralsight\_course_WPF_MVVM_AdvancedModelTreatment\demos\m5\after\FriendStorage\FriendStorage.Model\bin\Debug\FriendStorage.Model.pdb
+D:\40_Publications\Pluralsight\_course_WPF_MVVM_AdvancedModelTreatment\demos\m5\after\FriendStorage\FriendStorage.Model\obj\Debug\FriendStorage.Model.csprojResolveAssemblyReference.cache
+D:\40_Publications\Pluralsight\_course_WPF_MVVM_AdvancedModelTreatment\demos\m5\after\FriendStorage\FriendStorage.Model\obj\Debug\FriendStorage.Model.dll
+D:\40_Publications\Pluralsight\_course_WPF_MVVM_AdvancedModelTreatment\demos\m5\after\FriendStorage\FriendStorage.Model\obj\Debug\FriendStorage.Model.pdb
+D:\40_Publications\Pluralsight\_course_WPF_MVVM_AdvancedModelTreatment\demos\m7\after\FriendStorage\FriendStorage.Model\bin\Debug\FriendStorage.Model.dll
+D:\40_Publications\Pluralsight\_course_WPF_MVVM_AdvancedModelTreatment\demos\m7\after\FriendStorage\FriendStorage.Model\bin\Debug\FriendStorage.Model.pdb
+D:\40_Publications\Pluralsight\_course_WPF_MVVM_AdvancedModelTreatment\demos\m7\after\FriendStorage\FriendStorage.Model\obj\Debug\FriendStorage.Model.csprojResolveAssemblyReference.cache
+D:\40_Publications\Pluralsight\_course_WPF_MVVM_AdvancedModelTreatment\demos\m7\after\FriendStorage\FriendStorage.Model\obj\Debug\FriendStorage.Model.dll
+D:\40_Publications\Pluralsight\_course_WPF_MVVM_AdvancedModelTreatment\demos\m7\after\FriendStorage\FriendStorage.Model\obj\Debug\FriendStorage.Model.pdb
